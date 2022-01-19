@@ -39,7 +39,6 @@ pip-delete-this-directory.txt
 
 /.idea/
 /BlackJackGraphics*/
-/Resources/
 
 # Unit test / coverage reports
 htmlcov/
